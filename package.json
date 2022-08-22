@@ -2,8 +2,5 @@
   "dependencies": {
     "json-server": "^0.17.0",
     "json-server-auth": "^2.1.0"
-  },
-  "scripts":{
-    "start": "http-server -a localhost -p 8000 || process.env.PORT"
-  }
+  }  
 }
