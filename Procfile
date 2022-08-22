@@ -1,1 +1,1 @@
-web: json-server db.json -m ./node_modules/json-server-auth
+web: npm install && json-server db.json -m ./node_modules/json-server-auth
